@@ -18,7 +18,7 @@ public class TC_SI_009 {
         signin.click();
         Thread.sleep(1000);
 
-        // Locate the password field
+        // Locate the password field and get the type attribute
         String fieldType = driver.findElement(By.id("pass")).getAttribute("type");
         Thread.sleep(1000);
         //*****************************************
