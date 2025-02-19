@@ -9,7 +9,7 @@
 
 This project focuses on QA automation testing for a Magento eCommerce platform using Java and Selenium. The goal is to ensure the seamless functionality of the platform by automating tests for critical features such as product management, payment processing, and user interactions. Automated tests help identify issues quickly, ensuring a smooth and error-free experience for end-users.
 
-####  Test Scenarios
+####  Test Cases
 ![Test Scenarios](https://github.com/Hominiee/Magento-eCommerce-Testing/blob/main/static_content/LogIn_Test_Cases.png?raw=true)
 For the full list of login scenario test cases, check out [this spreadsheet](https://docs.google.com/spreadsheets/d/1xnTce6cDQ7RTR_20r0-dJK2ozWLpm599iEj1UNr57Kg/edit?gid=1896085646#gid=1896085646).
 
